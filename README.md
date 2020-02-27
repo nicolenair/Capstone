@@ -23,7 +23,7 @@ utterance_listslabels_by_book.zip contains a further preprocessed versions of th
 
 ## Pre-Trained CBB Vectors
 The four sets of 100 experiments of pre-trained CBB vectors mentioned in the report can be located here: 
-- LDA-C CBBs (true dataset):https://drive.google.com/file/d/1k_uHqVNgxgGILS16E8s8qOfCFlo1d6Ef/view?usp=sharing
-- LDA-C CBBs: (shuffled dataset): https://drive.google.com/file/d/1d8KRGT-De4IX8jxj-2skaY5f5LIW1hCd/view?usp=sharing
-- Character2Vec CBBs (true dataset):https://drive.google.com/file/d/1-21slt8qoNQFyk6dC0aVVEB-mXHFAhXQ/view?usp=sharing
-- Character2Vec CBBs: (shuffled dataset):https://drive.google.com/file/d/1--k0BbgNDQLsEIYJ35rT9efU3fVNlQvz/view?usp=sharing
++ LDA-C CBBs (true dataset):https://drive.google.com/file/d/1k_uHqVNgxgGILS16E8s8qOfCFlo1d6Ef/view?usp=sharing
++ LDA-C CBBs: (shuffled dataset): https://drive.google.com/file/d/1d8KRGT-De4IX8jxj-2skaY5f5LIW1hCd/view?usp=sharing
++ Character2Vec CBBs (true dataset):https://drive.google.com/file/d/1-21slt8qoNQFyk6dC0aVVEB-mXHFAhXQ/view?usp=sharing
++ Character2Vec CBBs: (shuffled dataset):https://drive.google.com/file/d/1--k0BbgNDQLsEIYJ35rT9efU3fVNlQvz/view?usp=sharing
