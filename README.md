@@ -1,5 +1,5 @@
 ## Contents of This Repository
-This is the repository for my undergraduate thesis 'The Measure of a Girl: Towards Vectorized Representations of Literary Character. Here are details for the files and folders in this repository:
+This is the repository for my undergraduate thesis 'The Measure of a Girl: Towards Vectorized Representations of Literary Character.' Here are details for the files and folders in this repository:
 
 The folder **code** contains three files:
 
